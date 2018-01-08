@@ -1,6 +1,7 @@
 {
   "name": "probot-playground",
-  "version": "1.0.4",
+  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "This repo is used for testing github probots. Please ignore it.",
   "main": "index.js",
   "scripts": {
